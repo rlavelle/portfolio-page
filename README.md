@@ -1,5 +1,6 @@
 # portfolio-page
 
+The website can be found [here](http://www.rowanlavelle.com)
 Personal portfolio webpage project. Template was taken from [github](https://github.com/crearo/portfolio). The LICENSE has been left in for credit to the creator. Code has been cut down to the bear minimum for a stylistic starting point.
 
 ### Goal of the project
