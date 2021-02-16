@@ -1,3 +1,7 @@
+# heroku files
+Procfile
+runtime.txt
+
 # vscode
 .vscode
 
