@@ -2,7 +2,7 @@ $(function() {
   /* NOTE: hard-refresh the browser once you've updated this */
   $(".typed").typed({
     strings: [
-      "stat rowlavel.human<br/>" + 
+      "stat user<br/>" + 
       "><span class='caret'>$</span> skills: Artificial Intelligence, Machine Learning, Statistics, Teaching<br/> ^100" +
       "><span class='caret'>$</span> job: Teaching Assistant at Indiana University Bloomington</a><br/> ^100"
     ],
