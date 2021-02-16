@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Exoplanet Hunting",
+      "link": "exoplanet",
+      "short": "Using light fluctuation data from NASA's Kepler telescope I trained multiple different models to classify exoplanets from non-exoplanets.",
+      "tags": [
+        "python","sklearn"
+      ],
+      "photos": [
+        "/static/projects/exoplanet/image1.jpg"
+      ],
+      "github": "https://github.com/rlavelle/Exoplanet"
+    },
+    {
+      "name": "Chess AI",
+      "link": "chess-ai",
+      "short": "Created a chess AI using the minimax algorithm optimized with alpha-beta pruning to play against users",
+      "tags": [
+        "python"
+      ],
+      "photos": [
+        "/static/projects/chess-ai/image1.png"
+      ],
+      "github": "https://github.com/rlavelle/ChessAI"
+    },
+    {
+      "name": "Document Decoder",
+      "link": "optical",
+      "short": "Computer Vision project to turn images of a handwritten documents into machine readable text",
+      "tags": [
+        "python", "openCV", "tensorflow"
+      ],
+      "photos": [
+        "/static/projects/optical/image1.png"
+      ],
+      "github": "https://github.com/rlavelle/optical-character-recognition"
+    },
+    {
+      "name": "Meiotic Exit Network",
+      "link": "physics",
+      "short": "Computational biophysics research project to establish a system level understanding of the meiotic termination network",
+      "tags": [
+        "python", "parallel computing"
+      ],
+      "photos": [
+        "/static/projects/physics/image1.png"
+      ],
+      "github": "https://github.com/rlavelle/stochastic-numerical-integration-ODEs"
+    }
+  ]
+}
