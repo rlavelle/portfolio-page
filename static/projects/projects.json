@@ -1,21 +1,21 @@
 {
   "projects": [
     {
-      "name": "Exoplanet Hunting",
-      "link": "exoplanet",
-      "short": "Using light fluctuation data from NASA's Kepler telescope I trained multiple different models to classify exoplanets from non-exoplanets.",
+      "name": "Stock Forecasting",
+      "link": "stock-forecasting",
+      "short": "Stock forecasting of next day closing prices using a variety of methods including recurrent neural networks, gated recurrent networks, long-short term networks, various continuos hidden markov model variations and various forms of ensemble regression.",
       "tags": [
-        "python","sklearn"
+        "python", "econometrics"
       ],
       "photos": [
-        "/static/projects/exoplanet/image1.jpg"
+        "/static/projects/stock-forecasting/image1.png"
       ],
-      "github": "https://github.com/rlavelle/Exoplanet"
+      "github": "https://github.com/rlavelle/stock-forecasting"
     },
     {
       "name": "Chess AI",
       "link": "chess-ai",
-      "short": "Created a chess AI using the minimax algorithm optimized with alpha-beta pruning to play against users",
+      "short": "Created a chess AI which uses case-based reasoning (CBR) and rule based heuristics to improve alpha beta search in chess. CBR is used to find optimal opening moves, and rule based heuristics are used to prune unnecessary moves lightening the load of the alpha-beta minimax algorithm. A genetic algorithm was used to compute the optimal weights for the evaluation heuristic",
       "tags": [
         "python"
       ],
@@ -23,18 +23,6 @@
         "/static/projects/chess-ai/image1.png"
       ],
       "github": "https://github.com/rlavelle/ChessAI"
-    },
-    {
-      "name": "Document Decoder",
-      "link": "optical",
-      "short": "Computer Vision project to turn images of a handwritten documents into machine readable text",
-      "tags": [
-        "python", "openCV", "tensorflow"
-      ],
-      "photos": [
-        "/static/projects/optical/image1.png"
-      ],
-      "github": "https://github.com/rlavelle/optical-character-recognition"
     },
     {
       "name": "Meiotic Exit Network",
@@ -47,6 +35,30 @@
         "/static/projects/physics/image1.png"
       ],
       "github": "https://github.com/rlavelle/stochastic-numerical-integration-ODEs"
+    },
+    {
+      "name": "Exoplanet Hunting",
+      "link": "exoplanet",
+      "short": "Using light fluctuation data from NASA's Kepler telescope multiple different models are trained to classify exoplanets from non-exoplanets.",
+      "tags": [
+        "python","sklearn"
+      ],
+      "photos": [
+        "/static/projects/exoplanet/image1.jpg"
+      ],
+      "github": "https://github.com/rlavelle/Exoplanet"
+    },
+    {
+      "name": "Document Decoder",
+      "link": "optical",
+      "short": "Computer Vision project to turn images of a handwritten documents into machine readable text",
+      "tags": [
+        "python", "openCV", "tensorflow"
+      ],
+      "photos": [
+        "/static/projects/optical/image1.png"
+      ],
+      "github": "https://github.com/rlavelle/optical-character-recognition"
     }
   ]
 }
