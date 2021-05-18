@@ -3,7 +3,7 @@
     {
       "name": "Stock Forecasting",
       "link": "stock-forecasting",
-      "short": "Stock forecasting of next day closing prices using a variety of methods including recurrent neural networks, gated recurrent networks, long-short term networks, various continuos hidden markov model variations and various forms of ensemble regression.",
+      "short": "Stock forecasting of next day closing prices using a variety of methods including RNNs, GRUs, LSTMs, various continuos hidden markov models and various forms of ensemble regression.",
       "tags": [
         "python", "econometrics"
       ],
