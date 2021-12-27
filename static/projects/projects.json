@@ -29,7 +29,7 @@
     {
       "name": "Global Warming",
       "link": "global-warming",
-      "short": "A Bayesian analysis approach to looking at indicators to confirm rising global temperatures. Methods include using Gibbs samplers to compare pre and post 1970 average temperature distributions and to compare average temperature changes under different priors. A Bayesian regression approach is also used to compare linear and non linear models to further show indicators of temperature changes.",
+      "short": "A Bayesian analysis approach to looking at indicators to confirm rising global temperatures. Methods include using Gibbs samplers to compare pre and post 1970 average temperature distributions and to compare average temperature change distributions under different prior assumptions. A Bayesian regression approach is also used to compare linear and non linear models to further show indicators of temperature changes.",
       "tags": [
         "R", "bayesian", "regression"
       ],
