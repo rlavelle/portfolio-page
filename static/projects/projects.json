@@ -21,7 +21,7 @@
         "python", "nlp", "deep learning"
       ],
       "photos": [
-        "/static/projects/abusive-language/image1.png"
+        "/static/projects/abusive-language/image1.jpg"
       ],
       "github": "https://github.com/rlavelle/abusive-language-detection",
       "paper": "/abusive"
