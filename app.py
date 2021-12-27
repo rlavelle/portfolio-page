@@ -46,19 +46,19 @@ def resume():
     return render_template('resume.html')
 
 @app.route('/stock')
-def resume():
+def stock():
     return render_template('stock.html')
 
 @app.route('/abusive')
-def resume():
+def abusive():
     return render_template('abusive.html')
 
 @app.route('/global')
-def resume():
+def global_warming():
     return render_template('global.html')
 
 @app.route('/chess')
-def resume():
+def chess():
     return render_template('chess.html')
 
 @app.errorhandler(404)
