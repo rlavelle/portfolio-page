@@ -10,19 +10,47 @@
       "photos": [
         "/static/projects/stock-forecasting/image1.png"
       ],
-      "github": "https://github.com/rlavelle/stock-forecasting"
+      "github": "https://github.com/rlavelle/stock-forecasting",
+      "paper": "/stock"
+    },
+    {
+      "name": "Abusive Language Detection",
+      "link": "abusive-language",
+      "short": "Experimentation of classifying offensive tweets using self attention within an LSTM, the semi-supervised tri-learning ensemble method to use mass unlabeled data in training, and a proof of concept for transfer learning.",
+      "tags": [
+        "python", "nlp", "deep learning"
+      ],
+      "photos": [
+        "/static/projects/abusive-language/image1.png"
+      ],
+      "github": "https://github.com/rlavelle/abusive-language-detection",
+      "paper": "/abusive"
+    },
+    {
+      "name": "Global Warming",
+      "link": "global-warming",
+      "short": "A Bayesian analysis approach to looking at indicators to confirm rising global temperatures. Methods include using Gibbs samplers to compare pre and post 1970 average temperature distributions and to compare average temperature changes under different priors. A Bayesian regression approach is also used to compare linear and non linear models to further show indicators of temperature changes.",
+      "tags": [
+        "R", "bayesian", "regression"
+      ],
+      "photos": [
+        "/static/projects/global-warming/image1.png"
+      ],
+      "github": "https://github.com/rlavelle/global-warming",
+      "paper": "/global"
     },
     {
       "name": "Chess AI",
       "link": "chess-ai",
       "short": "Created a chess AI which uses case-based reasoning (CBR) and rule based heuristics to improve alpha beta search in chess. CBR is used to find optimal opening moves, and rule based heuristics are used to prune unnecessary moves lightening the load of the alpha-beta minimax algorithm. A genetic algorithm was used to compute the optimal weights for the evaluation heuristic",
       "tags": [
-        "python"
+        "python", "chess"
       ],
       "photos": [
         "/static/projects/chess-ai/image1.png"
       ],
-      "github": "https://github.com/rlavelle/ChessAI"
+      "github": "https://github.com/rlavelle/ChessAI",
+      "paper": "/chess"
     },
     {
       "name": "Meiotic Exit Network",
@@ -41,7 +69,7 @@
       "link": "exoplanet",
       "short": "Using light fluctuation data from NASA's Kepler telescope multiple different models are trained to classify exoplanets from non-exoplanets.",
       "tags": [
-        "python","sklearn"
+        "python","sklearn", "nasa"
       ],
       "photos": [
         "/static/projects/exoplanet/image1.jpg"
@@ -53,7 +81,7 @@
       "link": "optical",
       "short": "Computer Vision project to turn images of a handwritten documents into machine readable text",
       "tags": [
-        "python", "openCV", "tensorflow"
+        "python", "openCV", "tensorflow", "computer-vision"
       ],
       "photos": [
         "/static/projects/optical/image1.png"

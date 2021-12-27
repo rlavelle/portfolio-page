@@ -45,6 +45,22 @@ def project(title):
 def resume():
     return render_template('resume.html')
 
+@app.route('/stock')
+def resume():
+    return render_template('stock.html')
+
+@app.route('/abusive')
+def resume():
+    return render_template('abusive.html')
+
+@app.route('/global')
+def resume():
+    return render_template('global.html')
+
+@app.route('/chess')
+def resume():
+    return render_template('chess.html')
+
 @app.errorhandler(404)
 def page_not_found(e):
     return render_template('404.html'), 404

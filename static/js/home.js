@@ -4,7 +4,7 @@ $(function() {
     strings: [
       "stat user<br/>" + 
       "><span class='caret'>$</span> skills: Artificial Intelligence, Machine Learning, Statistics, Teaching<br/> ^100" +
-      "><span class='caret'>$</span> job: Teaching Assistant at Indiana University Bloomington</a><br/> ^100"
+      "><span class='caret'>$</span> job: Quantitative Analyst at J.P. Morgan</a><br/> ^100"
     ],
     showCursor: true,
     cursorChar: '_',
